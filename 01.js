@@ -14,4 +14,10 @@
         -> supported by all major browsers and enabled by default
 
     => IDE: integrated development environment
+
+    => External Scripts:
+        -> relative path
+        -> absolute path
+
+    => A script tag can't have both src attribute and code inside
 */
