@@ -20,4 +20,14 @@
         -> absolute path
 
     => A script tag can't have both src attribute and code inside
+    => Statement can be separated with a semi-colon
+    => Comment is very useful:
+        -> single line comment (//comment)
+        -> multi line comment
+    
+    => "use strict" on the top -> the code will work in modern way
+    => A variable is a named storage for the data
+    => There are eight basic data types in JavaScript
+        -> seven are primitives ( string, number, bigint, null, undefined, boolean, symbol)
+        -> one non primitive ( object )
 */
